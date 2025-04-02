@@ -27,7 +27,7 @@ A Python-based cryptocurrency tracking and analysis application that leverages t
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/CryptoTracker.git
+   git clone https://github.com/SeyiDan/CryptoTracker.git
    cd CryptoTracker
    ```
 
