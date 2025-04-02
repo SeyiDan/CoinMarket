@@ -1,4 +1,4 @@
-# CryptoTracker
+# CoinMarket
 
 A Python-based cryptocurrency tracking and analysis application that leverages the CoinMarketCap API to monitor real-time cryptocurrency data, store it over time, and visualize market trends.
 
@@ -27,8 +27,8 @@ A Python-based cryptocurrency tracking and analysis application that leverages t
 
 1. Clone the repository:
    ```
-   git clone https://github.com/SeyiDan/CryptoTracker.git
-   cd CryptoTracker
+   git clone https://github.com/SeyiDan/CoinMarket.git
+   cd CoinMarket
    ```
 
 2. Install required packages:
